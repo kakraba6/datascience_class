@@ -1,8 +1,10 @@
 # EDUCATION
-Doctor of Philosophy(Bioinformatics), University of Arkansas for Medical Sciences and the University of Arkansas at Little Rock, Little Rock, AR, USA,	2015-2021	
- Research Speciality: Drug Discovery and Design, Machine learning & Data Science, Applied Statistics, Computational Biology, Bioinformatics, and Neuroscience
-    Thesis: “Drugs that Protect Against Protein Aggregation in Neurodegenerative Diseases”
-          Major Supervisor: Robert J. S. Reis, Ph.D.
+Qualification: Doctor of Philosophy(Bioinformatics)
+University: University of Arkansas for Medical Sciences and the University of Arkansas at Little Rock, Little Rock, AR, USA
+Duration : 2015-2021	
+Research Speciality: Drug Discovery and Design, Machine learning & Data Science, Applied Statistics, Computational Biology, Bioinformatics, and Neuroscience
+Thesis: “Drugs that Protect Against Protein Aggregation in Neurodegenerative Diseases”
+Major Supervisor: Robert J. S. Reis, Ph.D.
 
 Master of Science	(Mathematical Sciences), East Tennessee State University, Johnson City, TN, USA,	2013-2015
 
